@@ -1,6 +1,19 @@
 # 🩺 DiabetesTracker
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-deployed-red)
+![Model](https://img.shields.io/badge/Model-Random%20Forest-green)
+![Accuracy](https://img.shields.io/badge/Accuracy-74.7%25-brightgreen)
+
 A machine learning web application for **diabetes risk prediction** and **food recommendations**, built with Python and Streamlit.
+
+---
+
+## 🖥️ Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://akash-xai-diabetestracker-app-ajsjut.streamlit.app/)
+
+> 🔗 **[https://akash-xai-diabetestracker-app-ajsjut.streamlit.app/](https://akash-xai-diabetestracker-app-ajsjut.streamlit.app/)**
 
 ---
 
@@ -12,11 +25,6 @@ A machine learning web application for **diabetes risk prediction** and **food r
 - **Key Risk Factor Breakdown** — Highlights which specific inputs are contributing to your risk
 - **No Login Required** — Open access, no account needed
 
----
-
-## 🖥️ Live Demo
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-url.streamlit.app](https://akash-xai-diabetestracker-app-ajsjut.streamlit.app/))
 ---
 
 ## 🛠️ Tech Stack
