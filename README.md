@@ -14,10 +14,9 @@ A machine learning web application for **diabetes risk prediction** and **food r
 
 ---
 
-## 🖥️ Demo
+## 🖥️ Live Demo
 
-> Run locally with `streamlit run app.py` — opens at `http://localhost:8501`
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-url.streamlit.app](https://akash-xai-diabetestracker-app-ajsjut.streamlit.app/))
 ---
 
 ## 🛠️ Tech Stack
