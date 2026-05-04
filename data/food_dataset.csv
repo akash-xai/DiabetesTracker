@@ -1,0 +1,513 @@
+Meal_Id,Name,catagory,Veg_Non,Nutrient,Disease,Price
+meal_id1,summer squash salad,salad,veg,fiber, obesity diabeties hypertension goitre,485
+meal_id2,chicken minced salad,salad,non-veg,fiber, anemia pregnancy hypertension rickets goitre kidney_disease obesity,600
+meal_id3,sweet chilli almonds,chilli,veg,vitamin_a, hypertension scurvy heart_disease goitre kidney_disease pregnancy,255
+meal_id4,tricolour salad,salad,veg,fiber, obesity goitre hypertension,615
+meal_id5,gluten-free christmas cake,cake,veg,vitamin_a, goitre kidney_disease,465
+meal_id6,japanese curry arancini with  barley salsa,barley,veg,calcium, goitre,630
+meal_id7,chocolate nero cookies,cookie,veg,magnesium, hypertension heart_disease,475
+meal_id8,lamb and chargrilled bell pepper soup,soup,non-veg,sodium, pregnancy scurvy goitre kidney_disease obesity,340
+meal_id9,cream of almond soup,soup,veg,calcium, obesity cancer hypertension,290
+meal_id10,broccoli and almond soup,soup,veg,vitamin_c, pregnancy hypertension scurvy obesity diabeties,515
+meal_id11,coconut lime quinoa salad,salad,veg,fiber, pregnancy hypertension scurvy goitre obesity,540
+meal_id12,lemon honey glazed sous vide corn on the cob,corn,non-veg,protien, diabeties goitre scurvy,310
+meal_id13,watermelon and strawberry smoothie,smoothie,veg,magnesium, scurvy,475
+meal_id14,"peach, raspberry and nuts smoothie",smoothie,veg,vitamin_e, anemia cancer heart_disease kidney_disease obesity diabeties,585
+meal_id15,almond and cranberry poha,poha,veg,iron, hypertension,445
+meal_id16,almond and raw banana galawat,banana,veg,selenium, anemia hypertension cancer scurvy heart_disease kidney_disease diabeties,395
+meal_id17,baked namakpara with roasted almond dip,dip,veg,calcium, goitre hypertension kidney_disease,425
+meal_id18,grilled almond barfi (sugar free),barfi,veg,calcium, goitre hypertension,645
+meal_id19,baked shankarpali recipe,shankarpali,veg,carbohydrates, diabeties goitre,325
+meal_id20,baked multigrain murukku,baked,veg,iron, goitre,635
+meal_id21,apple rabdi,rabdi,veg,calcium, obesity diabeties,335
+meal_id22,baked namak para,baked,veg,magnesium, goitre,610
+meal_id23,dates and nuts ladoo,ladoo,veg,vitamin_e, anemia cancer heart_disease kidney_disease obesity diabeties,420
+meal_id24,green lentil dessert fudge,dessert,veg,calcium, anemia hypertension scurvy heart_disease goitre kidney_disease pregnancy diabeties,210
+meal_id25,cashew nut cookies,cookie,veg,protien, hypertension,655
+meal_id26,almond pearls,almond,veg,protien, hypertension,550
+meal_id27,hawaiin papaya salad,salad,veg,fiber, obesity scurvy hypertension goitre,245
+meal_id28,vegetable som tam salad,salad,veg,fiber, hypertension scurvy heart_disease goitre kidney_disease obesity,655
+meal_id29,spinach and feta crepes,spinach,veg,vitamin_c, anemia scurvy goitre kidney_disease,245
+meal_id30,couscous with ratatouille - tangy tomato sauce,sauce,veg,chloride, anemia pregnancy hypertension cancer scurvy heart_disease eye_disease rickets goitre kidney_disease obesity diabeties,220
+meal_id31,baked almond kofta,kofta,veg,calcium, goitre hypertension,610
+meal_id32,almond and amaranth ladoo,ladoo,veg,calcium, hypertension,685
+meal_id33,moong dal kiwi coconut soup,soup,veg,sodium, obesity scurvy hypertension,420
+meal_id28,vegetable som tam salad,salad,veg,fiber, hypertension scurvy heart_disease goitre kidney_disease obesity,220
+meal_id24,green lentil dessert fudge,dessert,veg,iron, anemia hypertension scurvy heart_disease goitre kidney_disease pregnancy diabeties,625
+meal_id34,mixed berry &amp; banana smoothie,smoothie,veg,selenium, diabeties hypertension,325
+meal_id35,banana walnut smoothie,smoothie,veg,selenium, hypertension,235
+meal_id36,spicy watermelon soup,soup,veg,sodium, obesity,225
+meal_id37,red rice poha,poha,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,275
+meal_id38,mixed salad with lotus root,salad,veg,fiber, hypertension goitre kidney_disease obesity diabeties,545
+meal_id39,sweet potato and quinoa bowl,potato,veg,protien, hypertension scurvy goitre kidney_disease pregnancy,525
+meal_id40,corn and raw mango salad,salad,veg,fiber, anemia hypertension cancer scurvy heart_disease goitre kidney_disease obesity diabeties,480
+meal_id41,oats khichdi,khichdi,veg,protien, hypertension,690
+meal_id42,sugar free modak,snacks,veg,carbohydrates, pregnancy hypertension cancer heart_disease goitre kidney_disease obesity diabeties,210
+meal_id43,beetroot modak,snacks,veg,selenium, hypertension,420
+meal_id44,andhra pan fried pomfret,snacks,veg,iron, cancer,645
+meal_id45,ghee roast chicken dosa quesadilla,snacks,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,685
+meal_id46,steam bunny chicken bao,snacks,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,335
+meal_id47,meat lovers pizza,snacks,non-veg,potassium, anemia pregnancy cancer goitre kidney_disease obesity,405
+meal_id48,almond and chicken momos (without shell),snacks,non-veg,calcium, anemia hypertension rickets goitre kidney_disease pregnancy,415
+meal_id49,christmas tree pizza,snacks,veg,chloride, goitre,660
+meal_id50,belgian pork chop,snacks,veg,iron, pregnancy goitre,215
+meal_id51,christmas chocolate fudge cookies,cookie,veg,magnesium, hypertension heart_disease,530
+meal_id6,japanese curry arancini with  barley salsa,snacks,veg,calcium, goitre,690
+meal_id7,chocolate nero cookies,cookie,veg,magnesium, hypertension heart_disease,245
+meal_id52,chicken parmigiana with tomato sauce,snacks,non-veg,vitamin_c, anemia rickets goitre kidney_disease pregnancy,485
+meal_id53,chocolate appo,snacks,veg,magnesium, hypertension heart_disease,340
+meal_id12,lemon honey glazed sous vide corn on the cob,snacks,non-veg,protien, diabeties goitre scurvy,685
+meal_id54,sous-vide salmon tikka,snacks,non-veg,calcium, anemia pregnancy hypertension heart_disease rickets goitre obesity diabeties,465
+meal_id55,filo pizza,snacks,veg,calcium, goitre,590
+meal_id15,almond and cranberry poha,snacks,veg,iron, hypertension,540
+meal_id16,almond and raw banana galawat,snacks,veg,selenium, anemia hypertension cancer scurvy heart_disease kidney_disease diabeties,410
+meal_id17,baked namakpara with roasted almond dip,snacks,veg,calcium, goitre hypertension kidney_disease,550
+meal_id18,grilled almond barfi (sugar free),snacks,veg,calcium, goitre hypertension,615
+meal_id56,chocolate samosa,snacks,veg,magnesium, hypertension heart_disease,330
+meal_id19,baked shankarpali recipe,snacks,veg,carbohydrates, diabeties goitre,370
+meal_id20,baked multigrain murukku,snacks,veg,iron, goitre,395
+meal_id22,baked namak para,snacks,veg,magnesium, goitre,695
+meal_id23,dates and nuts ladoo,snacks,veg,vitamin_e, anemia cancer heart_disease kidney_disease obesity diabeties,605
+meal_id57,fish with jamun sauce,snacks,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,520
+meal_id58,dahi lasooni chicken,snacks,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,450
+meal_id59,pesto fish kebabs,snacks,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,610
+meal_id60,caramelized sesame smoked almonds,snacks,veg,calcium, heart_disease,320
+meal_id61,crunchy vegetable dal sattu croquettes,dal,veg,iron, obesity scurvy kidney_disease heart_disease,530
+meal_id42,sugar free modak,modak,veg,carbohydrates, pregnancy hypertension cancer heart_disease goitre kidney_disease obesity diabeties,405
+meal_id43,beetroot modak,modak,veg,selenium, hypertension,340
+meal_id62,active charcoal modak,modak,veg,selenium, obesity diabeties,315
+meal_id63,flax seed and beetroot modak,modak,veg,magnesium, goitre hypertension heart_disease,420
+meal_id1,summer squash salad,salad,veg,fiber, obesity diabeties hypertension goitre,490
+meal_id64,chocolate prunes gujiyas,chocolate,veg,magnesium, hypertension heart_disease,575
+meal_id65,almond &amp; white chocolate gujiya,gujiya,veg,magnesium, anemia hypertension scurvy heart_disease rickets kidney_disease obesity,560
+meal_id66,betel nut popsicle,sauce,veg,magnesium, hypertension,300
+meal_id4,tricolour salad,salad,veg,fiber, obesity goitre hypertension,545
+meal_id49,christmas tree pizza,pizza,veg,chloride, goitre,210
+meal_id67,clotted cottage cheese croquettes,cheese,veg,calcium, obesity eye_disease,210
+meal_id68,gajar halwa tart,halwa,veg,vitamin_d, kidney_disease,470
+meal_id5,gluten-free christmas cake,cake,veg,vitamin_a, goitre kidney_disease,370
+meal_id6,japanese curry arancini with  barley salsa,barley,veg,calcium, goitre,380
+meal_id9,cream of almond soup,soup,veg,calcium, obesity cancer hypertension,640
+meal_id10,broccoli and almond soup,soup,veg,vitamin_c, pregnancy hypertension scurvy obesity diabeties,490
+meal_id33,moong dal kiwi coconut soup,soup,veg,sodium, obesity scurvy hypertension,685
+meal_id69,banana and maple ice lollies,banana,veg,selenium, hypertension,695
+meal_id70,shepherds salad (tamatar-kheera salaad),salad,veg,fiber, obesity goitre hypertension,290
+meal_id71,carrot ginger soup,soup,veg,sodium, obesity,245
+meal_id72,dark night,apple,veg,iron, anemia hypertension scurvy heart_disease eye_disease rickets,585
+meal_id73,hot chocolate,chocolate,veg,magnesium, hypertension cancer scurvy heart_disease goitre,205
+meal_id74,slow cooked spiced sangria,sangria,veg,iron, anemia pregnancy scurvy heart_disease goitre kidney_disease obesity diabeties,560
+meal_id75,detox haldi tea,tea,veg,manganese, heart_disease,230
+meal_id76,holi special ice tea thandai,tea,veg,calcium, kidney_disease heart_disease,620
+meal_id77,grilled lemon margarita,margarita,veg,vitamin_c, scurvy goitre,410
+meal_id78,spanish artichoke and spinach dip,dip,veg,vitamin_c, anemia scurvy kidney_disease,425
+meal_id79,beetroot and green apple soup,soup,veg,sodium, anemia pregnancy hypertension scurvy heart_disease goitre kidney_disease obesity diabeties,340
+meal_id80,baba budan no. 7,cardamom,veg,iron, eye_disease rickets heart_disease scurvy,405
+meal_id81,fruit infused tea,tea,veg,manganese, pregnancy hypertension scurvy heart_disease eye_disease obesity diabeties,680
+meal_id82,soya milk,milk,veg,vitamin_d, cancer hypertension rickets,535
+meal_id83,spiced coffee,coffee,veg,manganese, pregnancy anemia,600
+meal_id84,filter coffee,coffee,veg,manganese, pregnancy kidney_disease anemia,650
+meal_id75,detox haldi tea,tea,veg,manganese, heart_disease,300
+meal_id34,mixed berry &amp; banana smoothie,smoothie,veg,selenium, diabeties hypertension,330
+meal_id35,banana walnut smoothie,smoothie,veg,selenium, hypertension,360
+meal_id46,steam bunny chicken bao,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,340
+meal_id47,meat lovers pizza,chicken,non-veg,potassium, anemia pregnancy cancer goitre kidney_disease obesity,505
+meal_id85,garlic and pinenut soup with burnt butter essence,soup,non-veg,vitamin_a, hypertension cancer heart_disease kidney_disease obesity diabeties,565
+meal_id86,roast turkey with cranberry sauce,chicken,non-veg,chloride, goitre,630
+meal_id52,chicken parmigiana with tomato sauce,chicken,non-veg,vitamin_c, anemia rickets goitre kidney_disease pregnancy,315
+meal_id87,roasted spring chicken with root veggies,chicken,non-veg,iron, anemia pregnancy hypertension rickets goitre kidney_disease obesity,645
+meal_id88,peri peri chicken satay,chicken,non-veg,chloride, anemia rickets goitre kidney_disease pregnancy,500
+meal_id89,chicken popcorn,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,600
+meal_id56,chocolate samosa,chicken,non-veg,magnesium, hypertension heart_disease,580
+meal_id90,half roast chicken,chicken,non-veg,vitamin_a, anemia pregnancy scurvy heart_disease rickets goitre kidney_disease obesity diabeties,555
+meal_id91,riceless chicken biryani,chicken,non-veg,vitamin_c, anemia rickets goitre kidney_disease pregnancy,360
+meal_id92,chicken farcha,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,350
+meal_id93,buldak (hot and spicy chicken),chicken,non-veg,magnesium, obesity,545
+meal_id94,chicken sukka,chicken,non-veg,chloride, anemia rickets goitre kidney_disease pregnancy,570
+meal_id95,steamed chicken roulade,chicken,non-veg,iron, anemia scurvy rickets goitre kidney_disease pregnancy,235
+meal_id96,methi chicken masala,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,360
+meal_id97,restaurant style fried chicken,chicken,non-veg,iron, anemia cancer rickets goitre kidney_disease pregnancy,395
+meal_id98,chicken potli,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,375
+meal_id99,spicy chicken masala,chicken,non-veg,iron, anemia pregnancy rickets goitre kidney_disease obesity,425
+meal_id100,spicy chicken curry,chicken,non-veg,iron, anemia pregnancy rickets goitre kidney_disease obesity,670
+meal_id101,crispy herb chicken,chicken,non-veg,chloride, anemia rickets goitre kidney_disease pregnancy diabeties,400
+meal_id102,dahi chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,375
+meal_id103,amritsari chicken masala,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,660
+meal_id104,chilli chicken,chicken,non-veg,chloride, anemia rickets goitre kidney_disease pregnancy,390
+meal_id105,oat crusted chicken tenders,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,260
+meal_id106,chicken nimbu dhaniya shorba,chicken,non-veg,chloride, anemia rickets goitre kidney_disease pregnancy,345
+meal_id58,dahi lasooni chicken,chicken,non-veg,chloride, anemia rickets goitre kidney_disease pregnancy,240
+meal_id107,garlic soya chicken,chicken,non-veg,iron, anemia hypertension cancer heart_disease rickets goitre kidney_disease pregnancy diabeties,260
+meal_id108,cauliflower and chicken biryani,chicken,non-veg,chloride, anemia cancer rickets goitre kidney_disease pregnancy,380
+meal_id109,chicken quinoa biryani,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,420
+meal_id110,chicken and mushroom lasagna,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,670
+meal_id111,plum and cherry roasted chicken,chicken,non-veg,iron, anemia hypertension scurvy rickets goitre kidney_disease pregnancy,335
+meal_id112,chicken roulade,chicken,non-veg,calcium, anemia rickets goitre kidney_disease pregnancy,665
+meal_id113,sticky rum chicken wings,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,670
+meal_id58,dahi lasooni chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,505
+meal_id114,chicken fritters,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,485
+meal_id115,chicken palwal,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,265
+meal_id116,pan seared thigh of chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,250
+meal_id117,chicken in mahalak sauce,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,570
+meal_id118,grilled kasundi honey chicken with sweet potato mash,chicken,non-veg,iron, anemia hypertension scurvy rickets goitre kidney_disease pregnancy,240
+meal_id119,chicken dong style,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,500
+meal_id120,microwave tandoori chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,240
+meal_id121,methi malai cranberry chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,450
+meal_id122,southern fried chicken tenders,chicken,non-veg,iron, anemia cancer rickets goitre kidney_disease pregnancy,460
+meal_id123,thai style chicken tikka,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,340
+meal_id124,chicken gilafi kebab,chicken,non-veg,phosphorus, anemia rickets goitre kidney_disease pregnancy,480
+meal_id2,chicken minced salad,salad,non-veg,fiber, anemia pregnancy hypertension rickets goitre kidney_disease obesity,455
+meal_id46,steam bunny chicken bao,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,405
+meal_id125,cheese chicken kebabs,chicken,non-veg,calcium, anemia pregnancy eye_disease rickets goitre kidney_disease obesity,270
+meal_id126,andhra crab meat masala,meat,non-veg,potassium, anemia pregnancy cancer kidney_disease obesity,515
+meal_id47,meat lovers pizza,meat,non-veg,potassium, anemia pregnancy cancer goitre kidney_disease obesity,375
+meal_id127,cajun spiced turkey wrapped with bacon,meat,non-veg,vitamin_c, cancer,555
+meal_id8,lamb and chargrilled bell pepper soup,soup,non-veg,sodium, pregnancy scurvy goitre kidney_disease obesity,315
+meal_id128,mongolian lamb balls,meat,non-veg,iron, goitre,655
+meal_id129,oyster lamb,meat,non-veg,iron, goitre,615
+meal_id130,chicken shami kebab,meat,non-veg,phosphorus, anemia rickets goitre kidney_disease pregnancy,650
+meal_id131,balti meat,meat,non-veg,potassium, anemia pregnancy cancer kidney_disease obesity,275
+meal_id132,coffee marinated mutton chops,coffee,non-veg,chloride, pregnancy anemia,335
+meal_id133,sali boti (parsi meat dish),meat,non-veg,potassium, anemia pregnancy cancer kidney_disease obesity,260
+meal_id134,braised lamb shanks,meat,non-veg,iron, goitre,460
+meal_id47,meat lovers pizza,meat,non-veg,potassium, anemia pregnancy cancer goitre kidney_disease obesity,335
+meal_id135,bengali lamb curry,meat,non-veg,iron, goitre,525
+meal_id44,andhra pan fried pomfret,curry,veg,iron, cancer,245
+meal_id136,malabari fish curry,curry,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,405
+meal_id137,portugese fish stew,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,455
+meal_id138,malabar fish curry,curry,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,510
+meal_id139,surmai curry with lobster butter rice,rice,veg,chloride, obesity diabeties anemia,445
+meal_id140,seared salmon in tabasco butter,butter,non-veg,calcium, anemia pregnancy hypertension heart_disease rickets goitre obesity diabeties,265
+meal_id141,"risotto lobster with parmesan egg pancake, confit tomatoes and coral tuille",egg,non-veg,vitamin_c, hypertension cancer heart_disease rickets goitre kidney_disease pregnancy diabeties,455
+meal_id142,fish skewers with coriander and red wine vinegar dressing,wine,non-veg,vitamin_a, anemia pregnancy hypertension cancer scurvy heart_disease rickets goitre kidney_disease obesity diabeties,665
+meal_id143,seafood rock filler,baked,veg,iodine, anemia pregnancy rickets goitre obesity,445
+meal_id144,shrimp &amp; cilantro ceviche,coriander,veg,vitamin_a, anemia goitre,300
+meal_id145,saewoo bokumbop (shrimp fried rice),egg,veg,vitamin_a, cancer,220
+meal_id146,goan prawn curry &amp; baked rice canapes,rice,veg,iron, obesity diabeties goitre anemia,550
+meal_id147,bihari fish curry,curry,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,220
+meal_id57,fish with jamun sauce,sauce,non-veg,vitamin_c, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,560
+meal_id148,beer batter fish fingers,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,635
+meal_id149,prawn and litchi salad,salad,veg,fiber, obesity goitre hypertension,385
+meal_id150,kerala fish curry,curry,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,405
+meal_id151,fish andlouse,fish,non-veg,vitamin_c, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,255
+meal_id57,fish with jamun sauce,sauce,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,210
+meal_id59,pesto fish kebabs,kebabs,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,230
+meal_id152,prawn fried rice,rice,veg,carbohydrates, obesity cancer diabeties anemia,575
+meal_id153,damdama fish curry,curry,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,555
+meal_id126,andhra crab meat masala,crab,non-veg,potassium, anemia pregnancy cancer kidney_disease obesity,455
+meal_id136,malabari fish curry,curry,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,590
+meal_id154,fish with white sauce,sauce,non-veg,vitamin_a, anemia pregnancy hypertension cancer scurvy heart_disease rickets goitre kidney_disease obesity diabeties,240
+meal_id155,chilli fish,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,290
+meal_id156,fish ambultiyal,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,675
+meal_id157,chettinad fish fry,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,545
+meal_id158,fish moilee,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,580
+meal_id159,batter fish,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,430
+meal_id160,fish salan,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,515
+meal_id161,spanish fish fry,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,605
+meal_id162,prawn potato soup,soup,veg,sodium, obesity pregnancy,430
+meal_id163,red rice vermicelli kheer,rice,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,650
+meal_id91,riceless chicken biryani,rice,non-veg,vitamin_c, anemia rickets goitre kidney_disease pregnancy,225
+meal_id164,green cucumber shots,rice,veg,iron, anemia hypertension scurvy heart_disease goitre kidney_disease pregnancy diabeties,225
+meal_id165,thai pineapple rice,rice,veg,carbohydrates, obesity diabeties kidney_disease anemia,520
+meal_id166,green asparagus risotto,rice,veg,chloride, anemia hypertension scurvy heart_disease goitre kidney_disease pregnancy diabeties,400
+meal_id146,goan prawn curry &amp; baked rice canapes,rice,veg,iron, obesity diabeties goitre anemia,300
+meal_id167,veg fried rice,rice,veg,carbohydrates, obesity cancer diabeties anemia,280
+meal_id168,egg and garlic fried rice,rice,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,365
+meal_id169,curd rice,rice,veg,iron, obesity diabeties anemia,460
+meal_id170,fried rice with soya chunks,rice,veg,iron, anemia cancer kidney_disease obesity diabeties,455
+meal_id108,cauliflower and chicken biryani,rice,non-veg,chloride, anemia cancer rickets goitre kidney_disease pregnancy,610
+meal_id109,chicken quinoa biryani,rice,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,225
+meal_id171,corn pulao,rice,veg,iron, diabeties goitre,500
+meal_id172,zucchini methi pulao,rice,veg,chloride, diabeties goitre,485
+meal_id173,lemon rice,rice,veg,magnesium, obesity diabeties anemia scurvy,560
+meal_id174,kale channe ki biryani,rice,veg,calcium, scurvy heart_disease kidney_disease pregnancy diabeties,260
+meal_id175,chicken paella,rice,non-veg,chloride, anemia rickets goitre kidney_disease pregnancy,355
+meal_id176,thai fish curry,rice,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,665
+meal_id177,vegetable pulao,rice,veg,phosphorus, obesity scurvy kidney_disease heart_disease,220
+meal_id178,oats &amp; shallots pulao,rice,veg,protien, hypertension,470
+meal_id179,shiitake fried rice with water chestnuts,rice,veg,carbohydrates, anemia pregnancy cancer goitre kidney_disease obesity diabeties,545
+meal_id165,thai pineapple rice,rice,veg,carbohydrates, obesity diabeties kidney_disease anemia,660
+meal_id152,prawn fried rice,rice,veg,carbohydrates, obesity cancer diabeties anemia,275
+meal_id180,lotus leaf wrapped fried rice,rice,veg,carbohydrates, obesity cancer diabeties anemia,585
+meal_id181,vegetable biryani,rice,veg,carbohydrates, obesity scurvy kidney_disease heart_disease,670
+meal_id182,avial with red rice,rice,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,410
+meal_id37,red rice poha,rice,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,400
+meal_id171,corn pulao,rice,veg,protien, diabeties goitre,410
+meal_id183,rice in lamb stock,rice,non-veg,iron, obesity diabeties goitre anemia,660
+meal_id46,steam bunny chicken bao,bread,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,645
+meal_id49,christmas tree pizza,bread,veg,chloride, goitre,600
+meal_id184,vegetable bruschetta,bread,veg,calcium, obesity scurvy kidney_disease heart_disease,595
+meal_id29,spinach and feta crepes,bread,veg,vitamin_c, anemia scurvy goitre kidney_disease,465
+meal_id185,red wine braised mushroom flatbread,wine,veg,vitamin_c, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,580
+meal_id186,strawberry &amp; pistachio breton tart,bread,veg,vitamin_a, scurvy kidney_disease,620
+meal_id187,tricolour pizza,bread,veg,sodium, goitre,380
+meal_id188,instant rava dosa,bread,veg,iron, rickets,370
+meal_id189,easy bread poha,bread,veg,iron, hypertension heart_disease eye_disease rickets goitre obesity,570
+meal_id190,bread chana basket,bread,veg,chloride, heart_disease,600
+meal_id191,spaghetti with clams &amp; crispy bread crumbs,bread,veg,iron, heart_disease,540
+meal_id192,kasha bread,bread,veg,selenium, heart_disease,525
+meal_id193,egg paratha,bread,non-veg,vitamin_a, hypertension rickets goitre kidney_disease pregnancy diabeties,375
+meal_id194,egg and cheddar cheese sandwich,bread,non-veg,vitamin_a, pregnancy hypertension eye_disease rickets goitre kidney_disease obesity diabeties,585
+meal_id195,egg in a blanket,bread,non-veg,vitamin_a, hypertension rickets goitre kidney_disease pregnancy diabeties,235
+meal_id196,bread dahi vada,bread,veg,chloride, heart_disease,450
+meal_id197,cheese and avocado parantha,bread,veg,calcium, obesity eye_disease heart_disease,235
+meal_id198,bread with tomatoes and olives,bread,veg,vitamin_c, cancer heart_disease,435
+meal_id43,beetroot modak,modak,veg,selenium, hypertension,485
+meal_id62,active charcoal modak,modak,veg,selenium, obesity diabeties,375
+meal_id63,flax seed and beetroot modak,modak,veg,magnesium, goitre hypertension heart_disease,315
+meal_id199,lemon poppy seed cake,cake,veg,potassium, scurvy,380
+meal_id64,chocolate prunes gujiyas,chocolate,veg,magnesium, hypertension heart_disease,475
+meal_id65,almond &amp; white chocolate gujiya,gujiya,veg,magnesium, anemia hypertension scurvy heart_disease rickets kidney_disease obesity,255
+meal_id68,gajar halwa tart,halwa,veg,vitamin_d, kidney_disease,205
+meal_id51,christmas chocolate fudge cookies,cookie,veg,magnesium, hypertension heart_disease,655
+meal_id5,gluten-free christmas cake,cake,veg,vitamin_a, goitre kidney_disease,205
+meal_id53,chocolate appo,chocolate,veg,magnesium, hypertension heart_disease,250
+meal_id163,red rice vermicelli kheer,kheer,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,340
+meal_id18,grilled almond barfi (sugar free),barfi,veg,calcium, goitre hypertension,575
+meal_id200,chocolate kaju katli,kaju,veg,vitamin_d, hypertension heart_disease,665
+meal_id56,chocolate samosa,samosa,veg,magnesium, hypertension heart_disease,330
+meal_id201,mix fruit laccha rabri tortilla crunch,rabri,veg,calcium, pregnancy hypertension scurvy heart_disease eye_disease obesity diabeties,225
+meal_id21,apple rabdi,rabdi,veg,calcium, obesity diabeties,495
+meal_id23,dates and nuts ladoo,ladoo,veg,vitamin_e, anemia cancer heart_disease kidney_disease obesity diabeties,400
+meal_id24,green lentil dessert fudge,dessert,veg,calcium, anemia hypertension scurvy heart_disease goitre kidney_disease pregnancy diabeties,265
+meal_id202,pista chocolate &amp; mandarin,chocolate,veg,magnesium, scurvy hypertension heart_disease,370
+meal_id69,banana and maple ice lollies,banana,veg,selenium, hypertension,485
+meal_id203,banana and chia tea cake,cake,veg,potassium, hypertension heart_disease goitre obesity diabeties,290
+meal_id204,chocolate and almond rum ball h,almond,veg,magnesium, hypertension heart_disease,255
+meal_id25,cashew nut cookies,cookie,veg,protien, hypertension,645
+meal_id205,lemon sushi cake,cake,veg,potassium, scurvy,200
+meal_id206,chocolate doughnut,chocolate,veg,magnesium, hypertension heart_disease,585
+meal_id207,spiced almond banana jaggery cake,cake,veg,potassium, hypertension,545
+meal_id208,fennel scented sweet banana fritters,banana,veg,selenium, hypertension scurvy goitre kidney_disease pregnancy,650
+meal_id209,camel milk cake tart,cake,veg,vitamin_d, cancer hypertension kidney_disease rickets,580
+meal_id210,quinoa coconut crumble custard,coconut,veg,protien, obesity pregnancy hypertension goitre,375
+meal_id44,andhra pan fried pomfret,curry,veg,iron, cancer,320
+meal_id126,andhra crab meat masala,crab,non-veg,potassium, anemia pregnancy cancer kidney_disease obesity,200
+meal_id136,malabari fish curry,curry,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,665
+meal_id45,ghee roast chicken dosa quesadilla,dosa,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,385
+meal_id2,chicken minced salad,salad,non-veg,fiber, anemia pregnancy hypertension rickets goitre kidney_disease obesity,500
+meal_id46,steam bunny chicken bao,bao,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,680
+meal_id211,lamb barley pot,barley,non-veg,iron, goitre,355
+meal_id65,almond &amp; white chocolate gujiya,gujiya,veg,magnesium, anemia hypertension scurvy heart_disease rickets kidney_disease obesity,550
+meal_id212,al hachi chicken,chicken,non-veg,magnesium, anemia rickets goitre kidney_disease pregnancy,360
+meal_id48,almond and chicken momos (without shell),chicken,non-veg,calcium, anemia hypertension rickets goitre kidney_disease pregnancy,460
+meal_id213,berry parfait hazelnut white chocolate sable,chocolate,veg,vitamin_a, anemia hypertension scurvy heart_disease rickets kidney_disease obesity,250
+meal_id49,christmas tree pizza,pizza,veg,chloride, goitre,465
+meal_id137,portugese fish stew,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,465
+meal_id127,cajun spiced turkey wrapped with bacon,wrapped,non-veg,vitamin_c, cancer,635
+meal_id214,badam papite ke kebab with pineapple salsa,kebab,non-veg,phosphorus, goitre kidney_disease,205
+meal_id215,mixed vegetable soup,soup,veg,sodium, scurvy heart_disease kidney_disease obesity diabeties,315
+meal_id116,pan seared thigh of chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,435
+meal_id117,chicken in mahalak sauce,sauce,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,260
+meal_id213,berry parfait hazelnut white chocolate sable,chocolate,veg,vitamin_a, anemia hypertension scurvy heart_disease rickets kidney_disease obesity,340
+meal_id50,belgian pork chop,chop,veg,iron, pregnancy goitre,640
+meal_id186,strawberry &amp; pistachio breton tart,strawberry,veg,vitamin_a, scurvy kidney_disease,675
+meal_id216,duo of chocolate and strawberry,strawberry,veg,vitamin_c, scurvy hypertension heart_disease,220
+meal_id217,mustard-parmesan whole roasted cauliflower,roasted,veg,chloride, cancer hypertension kidney_disease,510
+meal_id218,hassel back sweet potatoes,vanilla,veg,chloride, pregnancy hypertension scurvy goitre kidney_disease obesity,655
+meal_id74,slow cooked spiced sangria,sangria,veg,iron, anemia pregnancy scurvy heart_disease goitre kidney_disease obesity diabeties,240
+meal_id219,mother christmas cake,cake,veg,potassium, pregnancy,595
+meal_id220,matcha tea macarons,tea,veg,vitamin_a, heart_disease,355
+meal_id221,"amaranthus granola with lemon yogurt, berries and marigold",yogurt,veg,calcium, pregnancy hypertension scurvy heart_disease goitre kidney_disease obesity,320
+meal_id222,chocolate fudge cookies,cookie,veg,magnesium, hypertension heart_disease,230
+meal_id223,veg summer rolls,rice,veg,carbohydrates, diabeties,545
+meal_id224,eggless vanilla cake,cake,veg,potassium, goitre,645
+meal_id225,sweet potato pie,pie,veg,vitamin_a, hypertension scurvy goitre kidney_disease pregnancy,680
+meal_id226,wok tossed asparagus in mild garlic sauce,sauce,veg,chloride, hypertension cancer scurvy heart_disease kidney_disease pregnancy diabeties,615
+meal_id227,cinnamon oatmeal pancakes,pancakes,veg,selenium, hypertension cancer rickets goitre obesity diabeties,215
+meal_id228,chocolate chip cheesecake,chocolate,veg,calcium, hypertension heart_disease,450
+meal_id229,chocolate lava cake,cake,veg,vitamin_a, hypertension heart_disease,280
+meal_id230,eggless coffee cupcakes,coffee,veg,vitamin_d, pregnancy anemia,220
+meal_id231,chicken in white wine,wine,non-veg,iron, anemia pregnancy scurvy rickets goitre kidney_disease obesity,555
+meal_id204,chocolate and almond rum ball h,almond,veg,magnesium, hypertension heart_disease,450
+meal_id232,apple and walnut cake,cake,veg,potassium, obesity diabeties,510
+meal_id7,chocolate nero cookies,cookie,veg,magnesium, hypertension heart_disease,685
+meal_id233,gluten free almond cake,cake,veg,potassium, hypertension heart_disease goitre kidney_disease obesity diabeties,635
+meal_id234,cinnamon star cookies,cookie,veg,protien, cancer diabeties hypertension,530
+meal_id51,christmas chocolate fudge cookies,cookie,veg,magnesium, hypertension heart_disease,545
+meal_id5,gluten-free christmas cake,cake,veg,potassium, goitre kidney_disease,630
+meal_id235,whole wheat cake,cake,veg,potassium, kidney_disease,395
+meal_id236,plum cake,cake,veg,potassium, scurvy,665
+meal_id237,double chocolate easter cookies,cookie,veg,magnesium, diabeties hypertension heart_disease scurvy,460
+meal_id53,chocolate appo,chocolate,veg,magnesium, hypertension heart_disease,610
+meal_id163,red rice vermicelli kheer,kheer,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,325
+meal_id16,almond and raw banana galawat,banana,veg,selenium, anemia hypertension cancer scurvy heart_disease kidney_disease diabeties,510
+meal_id18,grilled almond barfi (sugar free),barfi,veg,calcium, goitre hypertension,230
+meal_id200,chocolate kaju katli,kaju,veg,vitamin_d, hypertension heart_disease,335
+meal_id201,mix fruit laccha rabri tortilla crunch,rabri,veg,calcium, pregnancy hypertension scurvy heart_disease eye_disease obesity diabeties,665
+meal_id21,apple rabdi,rabdi,veg,calcium, obesity diabeties,690
+meal_id22,baked namak para,baked,veg,magnesium, goitre,505
+meal_id23,dates and nuts ladoo,ladoo,veg,vitamin_e, anemia cancer heart_disease kidney_disease obesity diabeties,240
+meal_id128,mongolian lamb balls,lamb,non-veg,iron, goitre,245
+meal_id31,baked almond kofta,kofta,veg,calcium, goitre hypertension,465
+meal_id32,almond and amaranth ladoo,ladoo,veg,calcium, hypertension,570
+meal_id238,holi special malai kofta,kofta,veg,phosphorus, kidney_disease,535
+meal_id239,homemade gulab jamun,gulab,veg,vitamin_d, goitre,445
+meal_id100,spicy chicken curry,curry,non-veg,iron, anemia pregnancy rickets goitre kidney_disease obesity,545
+meal_id163,red rice vermicelli kheer,kheer,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,270
+meal_id130,chicken shami kebab,kebab,non-veg,phosphorus, anemia rickets goitre kidney_disease pregnancy,500
+meal_id240,lamb rogan josh,lamb,non-veg,iron, goitre,345
+meal_id241,fish curry,curry,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,205
+meal_id242,rice kheer,kheer,veg,calcium, obesity diabeties anemia,300
+meal_id74,slow cooked spiced sangria,sangria,veg,iron, anemia pregnancy scurvy heart_disease goitre kidney_disease obesity diabeties,460
+meal_id221,"amaranthus granola with lemon yogurt, berries and marigold",yogurt,veg,calcium, pregnancy hypertension scurvy heart_disease goitre kidney_disease obesity,380
+meal_id222,chocolate fudge cookies,cookie,veg,magnesium, hypertension heart_disease,550
+meal_id243,assorted rice kheer sushi,kheer,veg,magnesium, obesity diabeties anemia,495
+meal_id244,jalebi with fennel yogurt pudding,pudding,veg,vitamin_d, pregnancy hypertension goitre obesity diabeties,500
+meal_id224,eggless vanilla cake,cake,veg,potassium, goitre,520
+meal_id225,sweet potato pie,pie,veg,vitamin_a, hypertension scurvy goitre kidney_disease pregnancy,415
+meal_id245,broccoli souffle,broccoli,veg,vitamin_c, pregnancy diabeties scurvy,610
+meal_id228,chocolate chip cheesecake,chocolate,veg,calcium, hypertension heart_disease,300
+meal_id230,eggless coffee cupcakes,coffee,veg,vitamin_d, pregnancy anemia,625
+meal_id236,plum cake,cake,veg,potassium, scurvy,570
+meal_id246,christmas dry fruit cake,cake,veg,calcium, pregnancy hypertension scurvy heart_disease eye_disease obesity diabeties,390
+meal_id247,microwave chicken steak,chicken,non-veg,vitamin_a, anemia rickets goitre kidney_disease pregnancy,370
+meal_id248,cheese and ham roll,cheese,veg,calcium, obesity eye_disease,410
+meal_id249,vegetable manchurian,tomato,veg,vitamin_a, obesity scurvy kidney_disease heart_disease,560
+meal_id250,jerk chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,255
+meal_id251,lemon poppy seed cake hindi,cake,veg,potassium, scurvy,220
+meal_id252,steam bunny chicken bao hindi,bao,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,630
+meal_id253,double chocolate easter cookies hindi,cookie,veg,magnesium, diabeties hypertension heart_disease scurvy,310
+meal_id212,al hachi chicken,chicken,non-veg,magnesium, anemia rickets goitre kidney_disease pregnancy,575
+meal_id128,mongolian lamb balls,lamb,non-veg,iron, goitre,220
+meal_id31,baked almond kofta,kofta,veg,calcium, goitre hypertension,525
+meal_id254,orange quinoa sevaiyan,almond,veg,protien, anemia scurvy rickets goitre pregnancy,480
+meal_id100,spicy chicken curry,curry,non-veg,iron, anemia pregnancy rickets goitre kidney_disease obesity,505
+meal_id243,assorted rice kheer sushi,kheer,veg,magnesium, obesity diabeties anemia,395
+meal_id244,jalebi with fennel yogurt pudding,pudding,veg,vitamin_d, pregnancy hypertension goitre obesity diabeties,225
+meal_id255,spicy creamy kadai chicken,chicken,non-veg,iron, anemia pregnancy rickets goitre kidney_disease obesity,410
+meal_id256,apple kheer,kheer,veg,vitamin_e, obesity diabeties,355
+meal_id257,ragi oats ladoo (laddu),ladoo,veg,vitamin_e, hypertension,675
+meal_id258,lamb korma,korma,non-veg,iron, goitre,265
+meal_id259,ragi coconut ladoo (laddu),ladoo,veg,chloride, obesity hypertension,610
+meal_id163,red rice vermicelli kheer,kheer,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,630
+meal_id130,chicken shami kebab,kebab,non-veg,phosphorus, anemia rickets goitre kidney_disease pregnancy,510
+meal_id260,quick chicken curry,curry,non-veg,iron, anemia hypertension rickets goitre kidney_disease pregnancy,400
+meal_id255,spicy creamy kadai chicken,chicken,non-veg,iron, anemia pregnancy rickets goitre kidney_disease obesity,485
+meal_id261,chicken shaami kebab,kebab,non-veg,phosphorus, anemia rickets goitre kidney_disease pregnancy,245
+meal_id262,chicken masala,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,340
+meal_id65,almond &amp; white chocolate gujiya,gujiya,veg,magnesium, anemia hypertension scurvy heart_disease rickets kidney_disease obesity,585
+meal_id53,chocolate appo,chocolate,veg,magnesium, hypertension heart_disease,475
+meal_id163,red rice vermicelli kheer,kheer,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,315
+meal_id16,almond and raw banana galawat,banana,veg,selenium, anemia hypertension cancer scurvy heart_disease kidney_disease diabeties,485
+meal_id18,grilled almond barfi (sugar free),barfi,veg,calcium, goitre hypertension,360
+meal_id200,chocolate kaju katli,kaju,veg,vitamin_d, hypertension heart_disease,530
+meal_id56,chocolate samosa,samosa,veg,magnesium, hypertension heart_disease,460
+meal_id21,apple rabdi,rabdi,veg,calcium, obesity diabeties,555
+meal_id22,baked namak para,baked,veg,magnesium, goitre,260
+meal_id23,dates and nuts ladoo,ladoo,veg,vitamin_e, anemia cancer heart_disease kidney_disease obesity diabeties,690
+meal_id31,baked almond kofta,kofta,veg,calcium, goitre hypertension,600
+meal_id32,almond and amaranth ladoo,ladoo,veg,calcium, hypertension,355
+meal_id238,holi special malai kofta,kofta,veg,phosphorus, kidney_disease,210
+meal_id263,holi special bhang pakode,pakode,veg,iron, kidney_disease,650
+meal_id243,assorted rice kheer sushi,kheer,veg,magnesium, obesity diabeties anemia,335
+meal_id64,chocolate prunes gujiyas,chocolate,veg,magnesium, hypertension heart_disease,625
+meal_id65,almond &amp; white chocolate gujiya,gujiya,veg,magnesium, anemia hypertension scurvy heart_disease rickets kidney_disease obesity,390
+meal_id163,red rice vermicelli kheer,kheer,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,260
+meal_id21,apple rabdi,rabdi,veg,calcium, obesity diabeties,245
+meal_id22,baked namak para,baked,veg,magnesium, goitre,260
+meal_id23,dates and nuts ladoo,ladoo,veg,vitamin_e, anemia cancer heart_disease kidney_disease obesity diabeties,265
+meal_id264,kuttu atta pizza,pizza,veg,calcium, goitre,435
+meal_id265,arbi kofta with mint yogurt dip,dip,veg,calcium, obesity diabeties hypertension pregnancy,655
+meal_id266,puffed rice squares,rice,veg,carbohydrates, obesity diabeties anemia,375
+meal_id257,ragi oats ladoo (laddu),ladoo,veg,vitamin_e, hypertension,550
+meal_id259,ragi coconut ladoo (laddu),ladoo,veg,chloride, obesity hypertension,515
+meal_id267,red velvet banana pudding,pudding,veg,calcium, anemia pregnancy hypertension cancer scurvy goitre kidney_disease obesity diabeties,265
+meal_id199,lemon poppy seed cake,cake,veg,potassium, scurvy,355
+meal_id47,meat lovers pizza,pizza,non-veg,potassium, anemia pregnancy cancer goitre kidney_disease obesity,375
+meal_id48,almond and chicken momos (without shell),chicken,non-veg,calcium, anemia hypertension rickets goitre kidney_disease pregnancy,550
+meal_id213,berry parfait hazelnut white chocolate sable,chocolate,veg,vitamin_a, anemia hypertension scurvy heart_disease rickets kidney_disease obesity,255
+meal_id268,baked wild berry cheesecake,berry,veg,vitamin_a, rickets goitre,520
+meal_id49,christmas tree pizza,pizza,veg,chloride, goitre,615
+meal_id67,clotted cottage cheese croquettes,cheese,veg,calcium, obesity eye_disease,355
+meal_id51,christmas chocolate fudge cookies,cookie,veg,magnesium, hypertension heart_disease,255
+meal_id5,gluten-free christmas cake,cake,veg,vitamin_a, goitre kidney_disease,440
+meal_id7,chocolate nero cookies,cookie,veg,magnesium, hypertension heart_disease,545
+meal_id269,spiced orange valencia cake,cake,veg,vitamin_a, anemia rickets scurvy,395
+meal_id53,chocolate appo,chocolate,veg,magnesium, hypertension heart_disease,645
+meal_id55,filo pizza,pizza,veg,calcium, goitre,610
+meal_id15,almond and cranberry poha,poha,veg,iron, hypertension,260
+meal_id17,baked namakpara with roasted almond dip,dip,veg,calcium, goitre hypertension kidney_disease,490
+meal_id184,vegetable bruschetta,bruschetta,veg,calcium, obesity scurvy kidney_disease heart_disease,340
+meal_id270,jalapeno cheese fingers,cheese,veg,calcium, obesity eye_disease,225
+meal_id29,spinach and feta crepes,spinach,veg,vitamin_c, anemia scurvy goitre kidney_disease,655
+meal_id271,californian breakfast benedict,sauce,veg,protien, obesity rickets hypertension,375
+meal_id272,chocolate marquise,chocolate,veg,vitamin_a, hypertension heart_disease,235
+meal_id273,corn &amp; jalapeno poppers,corn,veg,iron, diabeties goitre,430
+meal_id274,banana phirni tartlets with fresh strawberries,banana,veg,vitamin_c, anemia pregnancy hypertension cancer scurvy heart_disease rickets kidney_disease obesity diabeties,570
+meal_id25,cashew nut cookies,cookie,veg,protien, hypertension,330
+meal_id207,spiced almond banana jaggery cake,cake,veg,potassium, hypertension,685
+meal_id275,mexican pizza,pizza,veg,sodium, goitre,255
+meal_id276,apple and pear cake,cake,veg,potassium, obesity diabeties,410
+meal_id277,microwave chocolate cake,cake,veg,magnesium, hypertension heart_disease,385
+meal_id278,white chocolate and lemon pastry,chocolate,veg,magnesium, anemia hypertension scurvy heart_disease rickets kidney_disease obesity,415
+meal_id44,andhra pan fried pomfret,curry,veg,iron, cancer,435
+meal_id45,ghee roast chicken dosa quesadilla,dosa,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,540
+meal_id211,lamb barley pot,barley,non-veg,iron, goitre,395
+meal_id85,garlic and pinenut soup with burnt butter essence,soup,veg,vitamin_a, hypertension cancer heart_disease kidney_disease obesity diabeties,325
+meal_id3,sweet chilli almonds,chilli,veg,vitamin_a, hypertension scurvy heart_disease goitre kidney_disease pregnancy,410
+meal_id48,almond and chicken momos (without shell),chicken,non-veg,calcium, anemia hypertension rickets goitre kidney_disease pregnancy,555
+meal_id49,christmas tree pizza,pizza,veg,chloride, goitre,285
+meal_id137,portugese fish stew,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,220
+meal_id127,cajun spiced turkey wrapped with bacon,wrapped,non-veg,vitamin_c, cancer,485
+meal_id50,belgian pork chop,chop,veg,iron, pregnancy goitre,475
+meal_id68,gajar halwa tart,halwa,veg,vitamin_d, kidney_disease,265
+meal_id86,roast turkey with cranberry sauce,sauce,veg,chloride, goitre,245
+meal_id5,gluten-free christmas cake,cake,veg,vitamin_a, goitre kidney_disease,245
+meal_id7,chocolate nero cookies,cookie,veg,magnesium, hypertension heart_disease,565
+meal_id8,lamb and chargrilled bell pepper soup,soup,non-veg,sodium, pregnancy scurvy goitre kidney_disease obesity,545
+meal_id9,cream of almond soup,soup,veg,calcium, obesity cancer hypertension,620
+meal_id10,broccoli and almond soup,soup,veg,vitamin_c, pregnancy hypertension scurvy obesity diabeties,590
+meal_id12,lemon honey glazed sous vide corn on the cob,corn,non-veg,protien, diabeties goitre scurvy,510
+meal_id54,sous-vide salmon tikka,tikka,non-veg,calcium, anemia pregnancy hypertension heart_disease rickets goitre obesity diabeties,630
+meal_id87,roasted spring chicken with root veggies,chicken,non-veg,iron, anemia pregnancy hypertension rickets goitre kidney_disease obesity,385
+meal_id71,carrot ginger soup,soup,veg,sodium, obesity,610
+meal_id215,mixed vegetable soup,soup,veg,sodium, scurvy heart_disease kidney_disease obesity diabeties,695
+meal_id84,filter coffee,coffee,veg,manganese, pregnancy kidney_disease anemia,515
+meal_id6,japanese curry arancini with  barley salsa,barley,veg,calcium, goitre,295
+meal_id11,coconut lime quinoa salad,salad,veg,fiber, pregnancy hypertension scurvy goitre obesity,585
+meal_id13,watermelon and strawberry smoothie,smoothie,veg,magnesium, scurvy,475
+meal_id15,almond and cranberry poha,poha,veg,iron, hypertension,325
+meal_id19,baked shankarpali recipe,shankarpali,veg,carbohydrates, diabeties goitre,410
+meal_id25,cashew nut cookies,cookie,veg,protien, hypertension,220
+meal_id27,hawaiin papaya salad,salad,veg,fiber, obesity scurvy hypertension goitre,205
+meal_id28,vegetable som tam salad,salad,veg,fiber, hypertension scurvy heart_disease goitre kidney_disease obesity,245
+meal_id184,vegetable bruschetta,bruschetta,veg,calcium, obesity scurvy kidney_disease heart_disease,485
+meal_id270,jalapeno cheese fingers,cheese,veg,calcium, obesity eye_disease,530
+meal_id29,spinach and feta crepes,spinach,veg,vitamin_c, anemia scurvy goitre kidney_disease,205
+meal_id185,red wine braised mushroom flatbread,wine,veg,vitamin_c, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,295
+meal_id279,mixed beans salad,salad,veg,fiber, anemia pregnancy hypertension heart_disease goitre obesity diabeties,435
+meal_id143,seafood rock filler,baked,veg,iodine, anemia pregnancy rickets goitre obesity,555
+meal_id271,californian breakfast benedict,sauce,veg,protien, obesity rickets hypertension,290
+meal_id280,baked raw banana samosa,samosa,veg,chloride, anemia hypertension cancer scurvy heart_disease goitre kidney_disease diabeties,675
+meal_id144,shrimp &amp; cilantro ceviche,coriander,veg,vitamin_a, anemia goitre,685
+meal_id281,coconut mango oatmeal with cinnamon hint,mango,veg,selenium, hypertension cancer rickets goitre obesity diabeties,555
+meal_id282,fruit cube salad,salad,veg,fiber, pregnancy hypertension scurvy heart_disease eye_disease goitre obesity diabeties,280
+meal_id283,veg hakka noodles,sauce,veg,iron, diabeties,380
+meal_id284,strawberry quinoa pancakes,pancakes,veg,vitamin_c, pregnancy scurvy goitre,210
+meal_id186,strawberry &amp; pistachio breton tart,strawberry,veg,vitamin_a, scurvy kidney_disease,450
+meal_id84,filter coffee,coffee,veg,manganese, pregnancy kidney_disease anemia,530
+meal_id285,spinach &amp; banana pancakes,pancakes,veg,vitamin_c, anemia scurvy hypertension kidney_disease,250
+meal_id286,french onion grilled cheese,cheese,veg,calcium, obesity goitre kidney_disease eye_disease,625
+meal_id287,pasta in cheese sauce,sauce,veg,calcium, obesity eye_disease,355
+meal_id288,deviled scotch egg,egg,non-veg,vitamin_a, hypertension rickets goitre kidney_disease pregnancy diabeties,600
+meal_id289,amritsari fish,fish,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,350
+meal_id290,butter chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,250
+meal_id291,chicken razala,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,620
+meal_id292,chicken tikka,tikka,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,215
+meal_id293,chicken tikka masala,tikka,non-veg,calcium, anemia rickets goitre kidney_disease pregnancy,355
+meal_id294,mushroom matar,matar,veg,iron, kidney_disease,220
+meal_id295,tandoori chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,635
+meal_id296,tandoori fish tikka,tikka,non-veg,vitamin_a, anemia pregnancy hypertension cancer heart_disease rickets goitre kidney_disease obesity diabeties,500
+meal_id297,chettinadu chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,665
+meal_id298,chicken 65,chicken,non-veg,iron, anemia scurvy rickets goitre kidney_disease pregnancy,425
+meal_id299,kolim / jawla,fish,veg,vitamin_a, cancer scurvy heart_disease eye_disease rickets goitre kidney_disease obesity diabeties,565
+meal_id300,black rice,rice,veg,carbohydrates, anemia pregnancy goitre obesity diabeties,235
+meal_id301,brown rice,rice,veg,carbohydrates, obesity diabeties anemia heart_disease,315
+meal_id302,koldil chicken,chicken,non-veg,iron, anemia rickets goitre kidney_disease pregnancy,620
+meal_id303,red rice,rice,veg,carbohydrates, anemia pregnancy cancer scurvy kidney_disease obesity diabeties,220
+meal_id304,rice,rice,veg,carbohydrates, obesity diabeties anemia,350
+meal_id305,sunga pork,curry,veg,iron, pregnancy goitre,605
+meal_id306,banana chips,banana,veg,magnesium, hypertension,295
+meal_id307,bhurji- egg,egg,non-veg,vitamin_a, hypertension rickets goitre kidney_disease pregnancy diabeties,645
+meal_id308,flattened rice / pohe,rice,veg,carbohydrates, anemia cancer scurvy heart_disease eye_disease rickets goitre kidney_disease obesity diabeties,525
+meal_id309,puffed rice,rice,veg,carbohydrates, obesity diabeties anemia,265
